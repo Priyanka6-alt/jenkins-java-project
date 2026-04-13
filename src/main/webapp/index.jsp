@@ -18,7 +18,7 @@
       <form action="#">
         <div class="form-control">
           <input type="text" required />
-          <label>nimm email id hakripa</label>
+          <label>nimm email id </label>
         </div>
         <div class="form-control">
           <input type="password" required />
